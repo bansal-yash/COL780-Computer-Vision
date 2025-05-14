@@ -1,0 +1,11 @@
+timm
+transformers
+torch
+torchvision
+nltk
+matplotlib
+pillow
+pycocotools
+pandas
+numpy
+tqdm
